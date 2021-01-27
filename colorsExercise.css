@@ -1,51 +1,36 @@
 /* Color Name */
 h1{
     color: violet;
+    background-color: tomato;
 }
 h5{
     color: yellow;
+    background-color: blue;
 }
 h6{
     color: orange;
+    background-color: indigo;
 }
 p{
-  color: tomato;
+    color: tomato;
+    background-color: violet;
 }
 /* Hexadecimal*/
 h2{
-   color: #4b0087;
+    color: #4b0087;
+    background-color: darkorange;
 }
 /* RGB*/
 h3{
     color: rgb(8, 4, 104)
+    background-color: yellow;
 }
 /* RGBA */
 h4{
     color: rgba(5, 149, 53, 0.6);
-}
-
-/* Background Colors */
-h1{
-    background-color: tomato;
-}
-h4{
     background-color: green;
 }
-h2{
-    background-color: darkorange;
-}
-h3{
-    background-color: yellow;
-}
-h5{
-    background-color: blue;
-}
-h6{
-    background-color: indigo;
-}
-p{
-    background-color: violet;
-}
+
 /* Bouns */
 li.one{
     color: hotpink;
