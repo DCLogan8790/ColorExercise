@@ -1,27 +1,27 @@
 /* Color Name */
 h1{
-    color: darkolivegreen;
+    color: violet;
 }
 h5{
-    color: rgb(77, 233, 30);
+    color: yellow;
 }
 h6{
-    color: turquoise;
+    color: orange;
 }
 p{
-  color: rgb(12, 191, 197);
+  color: tomato;
 }
 /* Hexadecimal*/
 h2{
-    color: #070809;
+   color: #4b0087;
 }
 /* RGB*/
 h3{
-    color: rgb(23, 22, 60)
+    color: rgb(8, 4, 104)
 }
 /* RGBA */
 h4{
-    color: rgba(47, 198, 255, .6);
+    color: rgba(5, 149, 53, 0.6);
 }
 
 /* Background Colors */
