@@ -1,0 +1,61 @@
+/* Color Name */
+h1{
+    color: darkolivegreen;
+}
+h5{
+    color: rgb(77, 233, 30);
+}
+h6{
+    color: turquoise;
+}
+p{
+  color: rgb(12, 191, 197);
+}
+/* Hexadecimal*/
+h2{
+    color: #070809;
+}
+/* RGB*/
+h3{
+    color: rgb(23, 22, 60)
+}
+/* RGBA */
+h4{
+    color: rgba(47, 198, 255, .6);
+}
+
+/* Background Colors */
+h1{
+    background-color: tomato;
+}
+h4{
+    background-color: green;
+}
+h2{
+    background-color: darkorange;
+}
+h3{
+    background-color: yellow;
+}
+h5{
+    background-color: blue;
+}
+h6{
+    background-color: indigo;
+}
+p{
+    background-color: violet;
+}
+/* Bouns */
+li.one{
+    color: hotpink;
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+}
+li.three{
+    background-color: peachpuff;
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+}
